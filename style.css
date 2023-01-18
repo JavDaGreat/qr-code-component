@@ -1,0 +1,32 @@
+body{
+  background-color: hsl(212, 45%, 89%) ;
+  font-family: 'Outfit', sans-serif;
+
+}
+main{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 2rem;
+  padding: 2rem;
+}
+section{
+  height: 28rem;
+  width: 18rem;
+  background-color: whitesmoke;
+  border-radius: 10px;
+  
+}
+img{
+  width: 16rem;
+  height: 15rem;
+  margin: 1rem;
+  border-radius: 10px;
+}
+h3{
+ text-align: center;
+}
+p{
+  text-align: center;
+  color:hsl(220, 15%, 55%) ;
+}
